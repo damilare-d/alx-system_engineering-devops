@@ -1,2 +1,5 @@
 #!/bin/bash
-ls -l
+-rwxr-xr-x 1 user 197121 16 Jun 25 19:20 0-current_working_directory*
+-rwxr-xr-x 1 user 197121 50 Jun 25 20:33 1-listit*
+-rwxr-xr-x 1 user 197121 15 Jun 25 20:43 2-bring_me_home*
+-rw-r--r-- 1 user 197121 16 Jun 25 18:58 README.md
